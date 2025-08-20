@@ -7,3 +7,6 @@
 <img width="1850" height="1306" alt="0bcb01c8-3cc3-44ce-a127-07a3de70faed" src="https://github.com/user-attachments/assets/509e1c2b-c43c-4439-9abc-9b255c4ec763" />
 
 
+### "type": "shopping_element" - SERP test
+
+
