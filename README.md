@@ -11,7 +11,8 @@
 <img width="1260" height="1134" alt="81d19715-ff87-4e8c-8233-41e50f134928" src="https://github.com/user-attachments/assets/40b6d75b-61c7-4765-902a-71a16e100d07" />
 
 - the titles and urls in the section of "type": "people_also_ask_expanded_element"
-<img width="2506" height="1572" alt="a13a24e9-a14f-47ae-a897-8e34e6ee47ca" src="https://github.com/user-attachments/assets/74b92122-af39-443e-8961-ace90fbb9443" />
+<img width="2568" height="1708" alt="eb1b9d6a-5d5e-4521-92bf-e3bcaa79dc55" src="https://github.com/user-attachments/assets/966877a8-d887-474a-8331-e09a6f092d75" />
+
 
 
 
