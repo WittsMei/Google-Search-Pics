@@ -13,6 +13,10 @@
 - the titles and urls in the section of "type": "people_also_ask_expanded_element"
 <img width="2568" height="1708" alt="eb1b9d6a-5d5e-4521-92bf-e3bcaa79dc55" src="https://github.com/user-attachments/assets/966877a8-d887-474a-8331-e09a6f092d75" />
 
+- What's the keyword of this search?
+<img width="1504" height="1162" alt="f88c9ec3-3d2b-4706-942c-7a0cdae9804d" src="https://github.com/user-attachments/assets/1eba093d-1013-43a0-a673-ba988f5fa2b3" />
+
+
 
 
 
